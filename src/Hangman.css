@@ -47,6 +47,22 @@
   padding-top: 4px;
 }
 
+#reset {
+  border: none;
+  font-family: inherit;
+  font-size: 1.5rem;
+  cursor: pointer;
+  width: 120px;
+  margin: 5px 2px 2px 2px;
+  letter-spacing: 1px;
+  outline: none;
+  background: blueviolet;
+  color: #fff;
+  box-shadow: 0 6px white;
+  border-radius: 5px;
+  padding-top: 4px;
+}
+
 .Hangman button:hover {
   background-color: red;
 }
